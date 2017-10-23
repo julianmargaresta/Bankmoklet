@@ -3,7 +3,7 @@
 By Yasinta (XI RPL 5 / 37)
 SMK TELKOM MALANG
 
-Hasil Output Modul Inherintance :
+Hasil Output Modul moklet bank :
 <br>
 1. 
 <br>
